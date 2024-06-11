@@ -1,0 +1,4 @@
+let asparagus = `<span class="name">esp&aacute;rragos</span><br><span class="description"><em>grilled green asparagus;</em> romesco sauce <strong>9</strong><br><span class="allergies">nuts, garlic</span></span>`;
+let potatoes = `<span class="name">patatas fingerling</span><br><span class="description"><em>fingerling potatoes;</em> truffle a&iuml;oli, crispy rosemary <strong>9</strong><br><span class="allergies">can be made vegan</span></span>`;
+let shishitos = `<span class="name">pimientos de padr&oacute;n</span><br><span class="description"><em>flash-fried shishito peppers;</em> sea salt <strong>9</strong></span>`;
+let mushrooms = `<span class="name">setas</span><br><span class="description"><em>shiitake and oyster mushrooms;</em> thyme, garlic, parsley, oloroso sherry <strong>9</strong><br><span class="allergies">GARLIC, chicken stock,<br>can be made vegan/vegetarian</span></span>`;
